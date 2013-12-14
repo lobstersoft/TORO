@@ -1,0 +1,15 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\Portal\slxwebrpt\SupportFiles\appSettings.config" timeStamp="2012-11-29T05:32:20.0000" />
+  <exportedFile url="\Portal\slxwebrpt\SupportFiles\Default.aspx" timeStamp="2012-11-29T05:32:20.0000" />
+  <exportedFile url="\Portal\slxwebrpt\SupportFiles\Default.aspx.cs" timeStamp="2012-11-29T05:32:20.0000" />
+  <exportedFile url="\Portal\slxwebrpt\SupportFiles\ErrorPage.aspx" timeStamp="2012-11-29T05:33:08.0000" />
+  <exportedFile url="\Portal\slxwebrpt\SupportFiles\Global.asax" timeStamp="2012-11-29T05:32:20.0000" />
+  <exportedFile url="\Portal\slxwebrpt\SupportFiles\log4net.config" timeStamp="2012-11-29T05:32:20.0000" />
+  <exportedFile url="\Portal\slxwebrpt\SupportFiles\SLXWebReporting.aspx" timeStamp="2012-11-29T05:33:08.0000" />
+  <exportedFile url="\Portal\slxwebrpt\SupportFiles\Web.config" timeStamp="2012-11-29T05:32:20.0000" />
+  <exportedFile url="\Portal\slxwebrpt\SupportFiles\App_GlobalResources\" />
+  <exportedFile url="\Portal\slxwebrpt\SupportFiles\App_LocalResources\" />
+  <exportedFile url="\Portal\slxwebrpt\SupportFiles\bin\" />
+  <exportedFile url="\Portal\slxwebrpt\SupportFiles\css\" />
+</exportedFiles>

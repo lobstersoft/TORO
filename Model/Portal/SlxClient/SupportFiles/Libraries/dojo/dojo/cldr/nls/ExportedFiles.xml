@@ -1,0 +1,115 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\dojo\dojo\cldr\nls\buddhist.js" timeStamp="2012-11-29T05:43:52.0000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\dojo\dojo\cldr\nls\chinese.js" timeStamp="2012-11-29T05:43:52.0000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\dojo\dojo\cldr\nls\coptic.js" timeStamp="2012-11-29T05:43:52.0000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\dojo\dojo\cldr\nls\currency.js" timeStamp="2012-11-29T05:43:47.0000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\dojo\dojo\cldr\nls\ethiopic.js" timeStamp="2012-11-29T05:43:52.0000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\dojo\dojo\cldr\nls\gregorian.js" timeStamp="2012-11-29T05:43:52.0000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\dojo\dojo\cldr\nls\hebrew.js" timeStamp="2012-11-29T05:43:52.0000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\dojo\dojo\cldr\nls\indian.js" timeStamp="2012-11-29T05:43:52.0000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\dojo\dojo\cldr\nls\islamic.js" timeStamp="2012-11-29T05:43:52.0000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\dojo\dojo\cldr\nls\japanese.js" timeStamp="2012-11-29T05:43:52.0000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\dojo\dojo\cldr\nls\number.js" timeStamp="2012-11-29T05:43:47.0000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\dojo\dojo\cldr\nls\persian.js" timeStamp="2012-11-29T05:43:47.0000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\dojo\dojo\cldr\nls\roc.js" timeStamp="2012-11-29T05:43:47.0000" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\dojo\dojo\cldr\nls\af\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\dojo\dojo\cldr\nls\ar\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\dojo\dojo\cldr\nls\ar-dz\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\dojo\dojo\cldr\nls\ar-jo\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\dojo\dojo\cldr\nls\ar-lb\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\dojo\dojo\cldr\nls\ar-ma\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\dojo\dojo\cldr\nls\ar-sy\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\dojo\dojo\cldr\nls\ar-tn\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\dojo\dojo\cldr\nls\az\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\dojo\dojo\cldr\nls\be\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\dojo\dojo\cldr\nls\bg\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\dojo\dojo\cldr\nls\ca\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\dojo\dojo\cldr\nls\cs\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\dojo\dojo\cldr\nls\da\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\dojo\dojo\cldr\nls\de\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\dojo\dojo\cldr\nls\de-at\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\dojo\dojo\cldr\nls\de-ch\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\dojo\dojo\cldr\nls\de-li\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\dojo\dojo\cldr\nls\el\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\dojo\dojo\cldr\nls\en\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\dojo\dojo\cldr\nls\en-au\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\dojo\dojo\cldr\nls\en-bz\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\dojo\dojo\cldr\nls\en-ca\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\dojo\dojo\cldr\nls\en-gb\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\dojo\dojo\cldr\nls\en-jm\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\dojo\dojo\cldr\nls\en-nz\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\dojo\dojo\cldr\nls\en-tt\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\dojo\dojo\cldr\nls\en-za\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\dojo\dojo\cldr\nls\es\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\dojo\dojo\cldr\nls\es-ar\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\dojo\dojo\cldr\nls\es-bo\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\dojo\dojo\cldr\nls\es-cl\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\dojo\dojo\cldr\nls\es-co\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\dojo\dojo\cldr\nls\es-cr\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\dojo\dojo\cldr\nls\es-ec\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\dojo\dojo\cldr\nls\es-gt\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\dojo\dojo\cldr\nls\es-hn\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\dojo\dojo\cldr\nls\es-pa\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\dojo\dojo\cldr\nls\es-pe\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\dojo\dojo\cldr\nls\es-pr\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\dojo\dojo\cldr\nls\es-py\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\dojo\dojo\cldr\nls\es-uy\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\dojo\dojo\cldr\nls\es-ve\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\dojo\dojo\cldr\nls\et\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\dojo\dojo\cldr\nls\eu\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\dojo\dojo\cldr\nls\fa\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\dojo\dojo\cldr\nls\fi\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\dojo\dojo\cldr\nls\fo\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\dojo\dojo\cldr\nls\fr\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\dojo\dojo\cldr\nls\fr-be\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\dojo\dojo\cldr\nls\fr-ca\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\dojo\dojo\cldr\nls\fr-ch\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\dojo\dojo\cldr\nls\fr-lu\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\dojo\dojo\cldr\nls\gd\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\dojo\dojo\cldr\nls\he\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\dojo\dojo\cldr\nls\hi\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\dojo\dojo\cldr\nls\hr\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\dojo\dojo\cldr\nls\hu\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\dojo\dojo\cldr\nls\id\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\dojo\dojo\cldr\nls\is\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\dojo\dojo\cldr\nls\it\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\dojo\dojo\cldr\nls\it-ch\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\dojo\dojo\cldr\nls\ja\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\dojo\dojo\cldr\nls\kk\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\dojo\dojo\cldr\nls\ko\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\dojo\dojo\cldr\nls\lt\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\dojo\dojo\cldr\nls\lv\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\dojo\dojo\cldr\nls\mk\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\dojo\dojo\cldr\nls\ms\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\dojo\dojo\cldr\nls\mt\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\dojo\dojo\cldr\nls\nb\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\dojo\dojo\cldr\nls\nl\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\dojo\dojo\cldr\nls\nl-be\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\dojo\dojo\cldr\nls\pl\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\dojo\dojo\cldr\nls\pt\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\dojo\dojo\cldr\nls\pt-pt\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\dojo\dojo\cldr\nls\rm\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\dojo\dojo\cldr\nls\ro\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\dojo\dojo\cldr\nls\ru\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\dojo\dojo\cldr\nls\sk\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\dojo\dojo\cldr\nls\sl\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\dojo\dojo\cldr\nls\sq\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\dojo\dojo\cldr\nls\sr\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\dojo\dojo\cldr\nls\sv\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\dojo\dojo\cldr\nls\sv-fi\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\dojo\dojo\cldr\nls\th\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\dojo\dojo\cldr\nls\tn\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\dojo\dojo\cldr\nls\tr\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\dojo\dojo\cldr\nls\ts\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\dojo\dojo\cldr\nls\uk\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\dojo\dojo\cldr\nls\ur\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\dojo\dojo\cldr\nls\ve\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\dojo\dojo\cldr\nls\vi\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\dojo\dojo\cldr\nls\xh\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\dojo\dojo\cldr\nls\zh\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\dojo\dojo\cldr\nls\zh-hant\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\dojo\dojo\cldr\nls\zh-hk\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\dojo\dojo\cldr\nls\zh-tw\" />
+  <exportedFile url="\Portal\SlxClient\SupportFiles\Libraries\dojo\dojo\cldr\nls\zu\" />
+</exportedFiles>

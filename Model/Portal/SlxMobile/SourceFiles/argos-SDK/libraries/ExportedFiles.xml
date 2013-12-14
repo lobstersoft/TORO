@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\Base64.js" timeStamp="2012-11-29T05:41:37.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\canvas2image.js" timeStamp="2012-11-29T05:41:37.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\json2.js" timeStamp="2012-11-29T05:41:40.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\ObjTree.js" timeStamp="2012-11-29T05:41:37.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\Simplate.js" timeStamp="2012-11-29T05:41:37.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\datejs\" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\jasmine\" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\reui\" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\sage\" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\sdata\" />
+</exportedFiles>

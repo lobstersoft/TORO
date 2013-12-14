@@ -1,0 +1,3 @@
+define(
+   ({"linkOpportunityName_Caption":"Opportunité :","lnkTicketNumber_Caption":"Ticket","lnkAccountName_Caption":"Compte :","txtPhone_Caption":"N° de téléphone :","txtLocation_Caption":"Emplacement :","txtNotes_Caption":"Notes :","txtStartTime_Caption":"Heure de début :","txtLeader_Caption":"Responsable :","linkContactName_Caption":"Contact :","txtDuration_Caption":"Durée :","txtDuration_Text":"{%= Sage.Utility.Activity.formatDuration($.entity.duration, $.entity.timeless)%}","lblHeader_Caption":"","lblHeader_Text":"{%= Sage.Utility.Activity.getActivityListSummaryHeaderHtml($.entity)%}","txtStartTime_Text":"{%= Sage.Utility.Activity.formatActivityStartDate($.entity.startdate, $.entity.timeless)%}"})
+);

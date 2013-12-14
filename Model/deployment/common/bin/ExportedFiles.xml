@@ -1,0 +1,10 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\deployment\common\bin\Sage.Entity.Interfaces.dll" timeStamp="2012-11-29T05:36:15.0000" />
+  <exportedFile url="\deployment\common\bin\Sage.Entity.Interfaces.xml" timeStamp="2012-11-29T05:36:15.0000" />
+  <exportedFile url="\deployment\common\bin\Sage.Form.Interfaces.dll" timeStamp="2012-11-29T05:36:44.0000" />
+  <exportedFile url="\deployment\common\bin\de\" />
+  <exportedFile url="\deployment\common\bin\fr\" />
+  <exportedFile url="\deployment\common\bin\it\" />
+  <exportedFile url="\deployment\common\bin\ru\" />
+</exportedFiles>

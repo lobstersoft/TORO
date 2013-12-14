@@ -1,0 +1,3 @@
+define(
+   ({"linkOpportunityName_Caption":"Сделка:","lnkTicketNumber_Caption":"Заявка","lnkAccountName_Caption":"Субъект:","txtPhone_Caption":"Телефон:","txtLocation_Caption":"Размещение:","txtNotes_Caption":"Заметки:","txtStartTime_Caption":"Время начала:","txtLeader_Caption":"Руководитель:","linkContactName_Caption":"Контакт:","txtDuration_Caption":"Длительность:","txtDuration_Text":"{%= Sage.Utility.Activity.formatDuration($.entity.duration, $.entity.timeless)%}","lblHeader_Caption":"","lblHeader_Text":"{%= Sage.Utility.Activity.getActivityListSummaryHeaderHtml($.entity)%}","txtStartTime_Text":"{%= Sage.Utility.Activity.formatActivityStartDate($.entity.startdate, $.entity.timeless)%}"})
+);

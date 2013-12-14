@@ -1,0 +1,42 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojox\mobile\themes\common\Button.less" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojox\mobile\themes\common\Carousel.less" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojox\mobile\themes\common\CheckBox.less" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojox\mobile\themes\common\ComboBox.less" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojox\mobile\themes\common\common.less" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojox\mobile\themes\common\compile.js" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojox\mobile\themes\common\domButtons-compat.css" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojox\mobile\themes\common\domButtons.css" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojox\mobile\themes\common\EdgeToEdgeCategory.less" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojox\mobile\themes\common\EdgeToEdgeList.less" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojox\mobile\themes\common\FixedSplitter.css" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojox\mobile\themes\common\Heading.less" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojox\mobile\themes\common\IconContainer.less" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojox\mobile\themes\common\IconContainer_keyframes.css" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojox\mobile\themes\common\ListItem.less" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojox\mobile\themes\common\Overlay.less" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojox\mobile\themes\common\PageIndicator.less" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojox\mobile\themes\common\ProgressIndicator.less" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojox\mobile\themes\common\RadioButton.less" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojox\mobile\themes\common\RoundRect.less" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojox\mobile\themes\common\RoundRectCategory.less" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojox\mobile\themes\common\RoundRectList.less" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojox\mobile\themes\common\Slider.less" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojox\mobile\themes\common\SpinWheel-compat.css" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojox\mobile\themes\common\SpinWheel.css" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojox\mobile\themes\common\Switch.css" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojox\mobile\themes\common\Switch.less" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojox\mobile\themes\common\TabBar.less" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojox\mobile\themes\common\TextArea.less" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojox\mobile\themes\common\TextBox.less" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojox\mobile\themes\common\ToggleButton.less" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojox\mobile\themes\common\ToolBarButton.less" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojox\mobile\themes\common\Tooltip.less" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojox\mobile\themes\common\transitions.css" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojox\mobile\themes\common\View.less" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojox\mobile\themes\common\compat\" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojox\mobile\themes\common\dijit\" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojox\mobile\themes\common\domButtons\" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojox\mobile\themes\common\transitions\" />
+</exportedFiles>

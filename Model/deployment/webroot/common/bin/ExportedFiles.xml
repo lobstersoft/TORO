@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\deployment\webroot\common\bin\Sage.Entity.Interfaces.dll" timeStamp="2012-11-29T05:36:15.0000" />
+  <exportedFile url="\deployment\webroot\common\bin\Sage.Form.Interfaces.dll" timeStamp="2012-11-29T05:36:44.0000" />
+  <exportedFile url="\deployment\webroot\common\bin\Sage.Integration.Entity.Feeds.dll" timeStamp="2012-11-29T05:37:45.0000" />
+  <exportedFile url="\deployment\webroot\common\bin\Sage.Integration.Entity.Feeds.pdb" timeStamp="2012-11-29T05:37:45.0000" />
+  <exportedFile url="\deployment\webroot\common\bin\Sage.ProcessOrchestration.dll" timeStamp="2012-11-29T05:37:02.0000" />
+  <exportedFile url="\deployment\webroot\common\bin\Sage.ProcessOrchestration.pdb" timeStamp="2012-11-29T05:37:02.0000" />
+  <exportedFile url="\deployment\webroot\common\bin\Sage.SalesLogix.Activity.Entities.dll" timeStamp="2012-11-29T05:37:04.0000" />
+  <exportedFile url="\deployment\webroot\common\bin\Sage.SalesLogix.Activity.Entities.pdb" timeStamp="2012-11-29T05:37:04.0000" />
+  <exportedFile url="\deployment\webroot\common\bin\Sage.SalesLogix.ContractSync.Entities.dll" timeStamp="2012-11-29T05:37:31.0000" />
+  <exportedFile url="\deployment\webroot\common\bin\Sage.SalesLogix.ContractSync.Entities.pdb" timeStamp="2012-11-29T05:37:31.0000" />
+  <exportedFile url="\deployment\webroot\common\bin\Sage.SalesLogix.Entities.dll" timeStamp="2012-11-29T05:37:28.0000" />
+  <exportedFile url="\deployment\webroot\common\bin\Sage.SalesLogix.Entities.pdb" timeStamp="2012-11-29T05:37:28.0000" />
+  <exportedFile url="\deployment\webroot\common\bin\Sage.SalesLogix.Security.Entities.dll" timeStamp="2012-11-29T05:37:34.0000" />
+  <exportedFile url="\deployment\webroot\common\bin\Sage.SalesLogix.Security.Entities.pdb" timeStamp="2012-11-29T05:37:34.0000" />
+  <exportedFile url="\deployment\webroot\common\bin\Sage.SalesLogix.SpeedSearch.dll" timeStamp="2012-11-29T05:37:36.0000" />
+  <exportedFile url="\deployment\webroot\common\bin\Sage.SalesLogix.SpeedSearch.pdb" timeStamp="2012-11-29T05:37:36.0000" />
+  <exportedFile url="\deployment\webroot\common\bin\de\" />
+  <exportedFile url="\deployment\webroot\common\bin\fr\" />
+  <exportedFile url="\deployment\webroot\common\bin\it\" />
+  <exportedFile url="\deployment\webroot\common\bin\ru\" />
+</exportedFiles>

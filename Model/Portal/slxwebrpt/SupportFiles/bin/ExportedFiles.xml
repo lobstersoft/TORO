@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\Portal\slxwebrpt\SupportFiles\bin\Interop.SLXWR.dll" timeStamp="2012-11-28T15:00:00.0000" />
+  <exportedFile url="\Portal\slxwebrpt\SupportFiles\bin\log4net.dll" timeStamp="2012-11-29T05:29:59.0000" />
+  <exportedFile url="\Portal\slxwebrpt\SupportFiles\bin\Sage.SalesLogix.Reporting.dll" timeStamp="2012-11-28T15:00:00.0000" />
+  <exportedFile url="\Portal\slxwebrpt\SupportFiles\bin\Sage.SalesLogix.Reporting.Server.dll" timeStamp="2012-11-28T15:00:00.0000" />
+  <exportedFile url="\Portal\slxwebrpt\SupportFiles\bin\WebReporting.dll" timeStamp="2012-11-28T15:00:00.0000" />
+  <exportedFile url="\Portal\slxwebrpt\SupportFiles\bin\de\" />
+  <exportedFile url="\Portal\slxwebrpt\SupportFiles\bin\fr\" />
+  <exportedFile url="\Portal\slxwebrpt\SupportFiles\bin\it\" />
+  <exportedFile url="\Portal\slxwebrpt\SupportFiles\bin\ru\" />
+</exportedFiles>

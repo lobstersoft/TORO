@@ -1,0 +1,128 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\AdapterRegistry.js" timeStamp="2012-11-29T05:41:38.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\AdapterRegistry.js.uncompressed.js" timeStamp="2012-11-29T05:41:38.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\aspect.js" timeStamp="2012-11-29T05:41:38.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\aspect.js.uncompressed.js" timeStamp="2012-11-29T05:41:38.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\back.js" timeStamp="2012-11-29T05:41:38.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\back.js.uncompressed.js" timeStamp="2012-11-29T05:41:38.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\behavior.js" timeStamp="2012-11-29T05:41:38.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\behavior.js.uncompressed.js" timeStamp="2012-11-29T05:41:38.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\cache.js" timeStamp="2012-11-29T05:41:38.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\cache.js.uncompressed.js" timeStamp="2012-11-29T05:41:38.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\colors.js" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\colors.js.uncompressed.js" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\cookie.js" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\cookie.js.uncompressed.js" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\currency.js" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\currency.js.uncompressed.js" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\date.js" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\date.js.uncompressed.js" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\DeferredList.js" timeStamp="2012-11-29T05:41:38.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\DeferredList.js.uncompressed.js" timeStamp="2012-11-29T05:41:38.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\dojo.js" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\dojo.js.uncompressed.js" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\dojo.profile.js" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\dom-attr.js" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\dom-attr.js.uncompressed.js" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\dom-class.js" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\dom-class.js.uncompressed.js" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\dom-construct.js" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\dom-construct.js.uncompressed.js" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\dom-form.js" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\dom-form.js.uncompressed.js" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\dom-geometry.js" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\dom-geometry.js.uncompressed.js" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\dom-prop.js" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\dom-prop.js.uncompressed.js" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\dom-style.js" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\dom-style.js.uncompressed.js" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\dom.js" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\dom.js.uncompressed.js" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\domReady.js" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\domReady.js.uncompressed.js" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\Evented.js" timeStamp="2012-11-29T05:41:38.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\Evented.js.uncompressed.js" timeStamp="2012-11-29T05:41:38.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\fx.js" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\fx.js.uncompressed.js" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\gears.js" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\gears.js.uncompressed.js" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\has.js" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\has.js.uncompressed.js" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\hash.js" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\hash.js.uncompressed.js" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\html.js" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\html.js.uncompressed.js" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\i18n.js" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\i18n.js.uncompressed.js" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\io-query.js" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\io-query.js.uncompressed.js" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\jaxer.js" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\jaxer.js.uncompressed.js" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\json.js" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\json.js.uncompressed.js" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\keys.js" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\keys.js.uncompressed.js" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\LICENSE" timeStamp="2012-11-29T05:41:38.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\loadInit.js" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\loadInit.js.uncompressed.js" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\main.js" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\main.js.uncompressed.js" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\mouse.js" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\mouse.js.uncompressed.js" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\NodeList-data.js" timeStamp="2012-11-29T05:41:38.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\NodeList-data.js.uncompressed.js" timeStamp="2012-11-29T05:41:38.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\NodeList-dom.js" timeStamp="2012-11-29T05:41:38.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\NodeList-dom.js.uncompressed.js" timeStamp="2012-11-29T05:41:38.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\NodeList-fx.js" timeStamp="2012-11-29T05:41:38.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\NodeList-fx.js.uncompressed.js" timeStamp="2012-11-29T05:41:38.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\NodeList-html.js" timeStamp="2012-11-29T05:41:38.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\NodeList-html.js.uncompressed.js" timeStamp="2012-11-29T05:41:38.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\NodeList-manipulate.js" timeStamp="2012-11-29T05:41:38.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\NodeList-manipulate.js.uncompressed.js" timeStamp="2012-11-29T05:41:38.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\NodeList-traverse.js" timeStamp="2012-11-29T05:41:38.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\NodeList-traverse.js.uncompressed.js" timeStamp="2012-11-29T05:41:38.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\number.js" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\number.js.uncompressed.js" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\on.js" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\on.js.uncompressed.js" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\OpenAjax.js" timeStamp="2012-11-29T05:41:38.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\package.json" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\parser.js" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\parser.js.uncompressed.js" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\query.js" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\query.js.uncompressed.js" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\ready.js" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\ready.js.uncompressed.js" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\regexp.js" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\regexp.js.uncompressed.js" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\require.js" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\require.js.uncompressed.js" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\Stateful.js" timeStamp="2012-11-29T05:41:38.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\Stateful.js.uncompressed.js" timeStamp="2012-11-29T05:41:38.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\string.js" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\string.js.uncompressed.js" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\text.js" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\text.js.uncompressed.js" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\topic.js" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\topic.js.uncompressed.js" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\touch.js" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\touch.js.uncompressed.js" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\uacss.js" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\uacss.js.uncompressed.js" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\window.js" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\window.js.uncompressed.js" timeStamp="2012-11-29T05:41:39.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\_base\" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\_firebug\" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\cldr\" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\data\" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\date\" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\dnd\" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\fx\" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\io\" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\nls\" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\resources\" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\rpc\" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\selector\" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojo\store\" />
+</exportedFiles>

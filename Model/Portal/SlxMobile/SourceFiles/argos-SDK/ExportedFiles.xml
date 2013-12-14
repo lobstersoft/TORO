@@ -1,0 +1,21 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\.gitignore" timeStamp="2012-11-29T05:41:37.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\docs-categories.json" timeStamp="2012-11-29T05:41:37.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\LICENSE" timeStamp="2012-11-29T05:41:37.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\LICENSE.Base64" timeStamp="2012-11-29T05:41:37.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\LICENSE.Datejs" timeStamp="2012-11-29T05:41:37.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\LICENSE.ExtCore" timeStamp="2012-11-29T05:41:37.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\LICENSE.iUI" timeStamp="2012-11-29T05:41:37.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\LICENSE.Jasmine" timeStamp="2012-11-29T05:41:37.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\LICENSE.ObjTree" timeStamp="2012-11-29T05:41:37.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\LICENSE.ReUI" timeStamp="2012-11-29T05:41:37.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\LICENSE.Simplate" timeStamp="2012-11-29T05:41:37.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\README.md" timeStamp="2012-11-29T05:41:37.0000" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\build\" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\content\" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\src\" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\tests\" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\tools\" />
+</exportedFiles>

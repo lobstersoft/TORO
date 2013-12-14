@@ -1,0 +1,3 @@
+define(
+   ({"txtDuration_Caption":"Durata:","slxPhone_Caption":"Telefono:","lnkOpportunityName_Caption":"Opportunità:","slxFromUser_Caption":"Da:","txtLocation_Caption":"Posizione:","txtStartDate_Caption":"Data iniziale:","slxLeader_Caption":"Responsabile:","lnkContactName_Caption":"Contatto:","lnkAccountName_Caption":"Azienda:","txtNotes_Caption":"Note:","lnkTicket_Caption":"Ticket:","QFTextBox_Text":"{%= Sage.Utility.Activity.getConfirmSummaryHeaderHtml($.entity, 'listl')%}","slxFromUser_ButtonToolTip":"","txtStartDate_Text":"{%= Sage.Utility.Activity.formatActivityStartDate($.entity.activity_startdate_2, $.entity.activity_timeless_2)%}","txtDuration_Text":"{%= Sage.Utility.Activity.formatDuration($.entity.activity_duration_2, $.entity.activity_timeless_2)%}"})
+);

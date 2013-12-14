@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\Portal\SlxJobService\Modules.order.xml" timeStamp="2012-11-29T05:32:20.0000" />
+  <exportedFile url="\Portal\SlxJobService\Services.order.xml" timeStamp="2012-11-29T05:32:20.0000" />
+  <exportedFile url="\Portal\SlxJobService\SlxJobService.cabsch.ptl.xml" timeStamp="2012-11-29T05:32:20.0000" />
+  <exportedFile url="\Portal\SlxJobService\SlxJobService.cabsch.ptl.xml.de.resx" timeStamp="2012-11-29T05:32:20.0000" />
+  <exportedFile url="\Portal\SlxJobService\SlxJobService.cabsch.ptl.xml.fr.resx" timeStamp="2012-11-29T05:32:20.0000" />
+  <exportedFile url="\Portal\SlxJobService\SlxJobService.cabsch.ptl.xml.it.resx" timeStamp="2012-11-29T05:32:20.0000" />
+  <exportedFile url="\Portal\SlxJobService\SlxJobService.cabsch.ptl.xml.resx" timeStamp="2012-11-29T05:32:20.0000" />
+  <exportedFile url="\Portal\SlxJobService\SlxJobService.cabsch.ptl.xml.ru.resx" timeStamp="2012-11-29T05:32:20.0000" />
+  <exportedFile url="\Portal\SlxJobService\SupportFiles.def.xml" timeStamp="2012-11-29T05:32:20.0000" />
+  <exportedFile url="\Portal\SlxJobService\Services\" />
+  <exportedFile url="\Portal\SlxJobService\SupportFiles\" />
+</exportedFiles>

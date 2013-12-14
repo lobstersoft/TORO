@@ -1,0 +1,3 @@
+define(
+   ({"txtVia_Caption":"Envoyer via :","dtpScheduled_Caption":"Planifié :","txtPostalCode_Caption":"Code postal :","txtStatus_Caption":"Etat :","slxPhone_Caption":"N° de téléphone prof. :","linkContact_Caption":"Contact :","txtCost_Caption":"Coût total :","txtRequestedBy_Caption":"Demandé par :","txtPriority_Caption":"Priorité :","dtpRequestDate_Caption":"Requis :","slxHomePhone_Caption":"N° de téléphone personnel","dtpSendDate_Caption":"Envoyer :","linkAccount_Caption":"Compte :","dtpScheduled_ButtonToolTip":"","txtHeader_Text":"{%= Sage.Utility.Activity.getLitRequestListSummaryHeaderHtml($.entity)%}"})
+);

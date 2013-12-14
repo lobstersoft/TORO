@@ -1,0 +1,21 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\Entity Model\SalesLogix Activity Support\History\CompleteToDate.filter.xml" timeStamp="2012-11-29T05:31:34.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Activity Support\History\CountHistory.filter.xml" timeStamp="2012-11-29T05:31:34.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Activity Support\History\ElapsedTimeToCompleteAverage.filter.xml" timeStamp="2012-11-29T05:31:34.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Activity Support\History\History.HISTORY.entity.xml" timeStamp="2012-11-29T05:31:34.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Activity Support\History\OnAfterDelete.method.xml" timeStamp="2012-11-29T05:31:34.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Activity Support\History\OnAfterInsert.method.xml" timeStamp="2012-11-29T05:31:34.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Activity Support\History\OnAfterUpdate.method.xml" timeStamp="2012-11-29T05:31:34.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Activity Support\History\OnBeforeDelete.method.xml" timeStamp="2012-11-29T05:31:34.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Activity Support\History\OnBeforeInsert.method.xml" timeStamp="2012-11-29T05:31:34.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Activity Support\History\OnBeforeUpdate.method.xml" timeStamp="2012-11-29T05:31:34.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Activity Support\History\OnCreate.method.xml" timeStamp="2012-11-29T05:31:34.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Activity Support\History\Priority.filter.xml" timeStamp="2012-11-29T05:31:34.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Activity Support\History\RecentlyCompleted.filter.xml" timeStamp="2012-11-29T05:31:34.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Activity Support\History\Result.filter.xml" timeStamp="2012-11-29T05:31:34.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Activity Support\History\TotalDuration.filter.xml" timeStamp="2012-11-29T05:31:34.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Activity Support\History\Type.filter.xml" timeStamp="2012-11-29T05:31:34.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Activity Support\History\User.filter.xml" timeStamp="2012-11-29T05:31:34.0000" />
+  <exportedFile url="\Entity Model\SalesLogix Activity Support\History\QuickForms\" />
+</exportedFiles>

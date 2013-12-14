@@ -1,0 +1,8 @@
+﻿<?xml version="1.0"?>
+<exportedFiles>
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojox\mobile\themes\android\" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojox\mobile\themes\blackberry\" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojox\mobile\themes\common\" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojox\mobile\themes\custom\" />
+  <exportedFile url="\Portal\SlxMobile\SourceFiles\argos-SDK\libraries\dojo\dojox\mobile\themes\iphone\" />
+</exportedFiles>
