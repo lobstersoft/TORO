@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<ModelItems xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Item Id="c9cf3686-e3dc-4b58-88c1-6971aa0d5e45">LiveGroupViewer.smartpart.xml</Item>
+  <Item Id="b68ff14a-260d-479b-a6f4-7b0265128742">IrrigationQuoteDetail.smartpart.xml</Item>
+  <Item Id="f25bc454-3297-4c06-b00f-f8cd81bed92c">QuoteNotes.smartpart.xml</Item>
+  <Item Id="68ea92b7-070e-439c-b64f-703d5b945fe6">QuoteProducts.smartpart.xml</Item>
+  <Item Id="65e35e4b-2add-4ddd-ad62-3903708b3081">SoldToShipToTab.smartpart.xml</Item>
+</ModelItems>

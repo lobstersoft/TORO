@@ -614,6 +614,36 @@
             <c>true</c> if the current object is being created.
             </summary>
         </member>
+        <member name="P:Sage.Entity.Interfaces.IIrrigationQuote.InstanceId">
+            <summary>
+            Gets the unique identifier for this instance
+            </summary>
+        </member>
+        <member name="P:Sage.Entity.Interfaces.IIrrigationQuote.Creating">
+            <summary>
+            <c>true</c> if the current object is being created.
+            </summary>
+        </member>
+        <member name="P:Sage.Entity.Interfaces.IIrrigationQuoteItem.InstanceId">
+            <summary>
+            Gets the unique identifier for this instance
+            </summary>
+        </member>
+        <member name="P:Sage.Entity.Interfaces.IIrrigationQuoteItem.Creating">
+            <summary>
+            <c>true</c> if the current object is being created.
+            </summary>
+        </member>
+        <member name="P:Sage.Entity.Interfaces.IIrrigationQuoteProduct.InstanceId">
+            <summary>
+            Gets the unique identifier for this instance
+            </summary>
+        </member>
+        <member name="P:Sage.Entity.Interfaces.IIrrigationQuoteProduct.Creating">
+            <summary>
+            <c>true</c> if the current object is being created.
+            </summary>
+        </member>
         <member name="P:Sage.Entity.Interfaces.IJoinData.InstanceId">
             <summary>
             Gets the unique identifier for this instance

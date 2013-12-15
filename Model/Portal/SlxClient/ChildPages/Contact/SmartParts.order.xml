@@ -26,4 +26,5 @@
   <Item Id="b19a1a30-ba90-4406-aa5d-1eaae448dbcf">LiveGroupViewer.smartpart.xml</Item>
   <Item Id="73e487fa-e6a4-45b1-98cd-d78d91e85c3c">MergeRecords.smartpart.xml</Item>
   <Item Id="46bdab48-184d-4b89-bd79-cdba73449a42">MergeChildren.smartpart.xml</Item>
+  <Item Id="c41d9dc0-06a5-4bd4-8125-1ea98f68a8b3">ContactIrrigationQuotes.smartpart.xml</Item>
 </ModelItems>

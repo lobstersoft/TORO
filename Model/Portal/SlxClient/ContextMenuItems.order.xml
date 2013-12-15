@@ -41,4 +41,6 @@
   <Item Id="4e7b59e1-4dc2-494b-8815-9304afc505a6">ContactListContextMenu.contextmenu.xml</Item>
   <Item Id="d5f94bc3-96ef-46d8-86ba-2fe4f0335982">ActivityManagerListContextMenu.contextmenu.xml</Item>
   <Item Id="0970feb9-dfef-4135-8562-b01d8a13af3c">OpportunityListContextMenu.contextmenu.xml</Item>
+  <Item Id="89381dce-8b6c-4979-aab3-ad00543cab89">contextCalendarNavBar.contextmenu.xml</Item>
+  <Item Id="7cb7bce6-0eca-4b7c-be13-ceba0a3e8a9d">contextIrrigationQuote.contextmenu.xml</Item>
 </ModelItems>

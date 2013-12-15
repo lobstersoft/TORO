@@ -1,0 +1,213 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="CostPrice.Caption" xml:space="preserve">
+    <value>CostPrice</value>
+  </data>
+  <data name="DiscountCode.Caption" xml:space="preserve">
+    <value>DiscountCode</value>
+  </data>
+  <data name="ExtendedPrice.Caption" xml:space="preserve">
+    <value>ExtendedPrice</value>
+  </data>
+  <data name="ListPrice.Caption" xml:space="preserve">
+    <value>ListPrice</value>
+  </data>
+  <data name="Margin.Caption" xml:space="preserve">
+    <value>Margin</value>
+  </data>
+  <data name="Name.Caption" xml:space="preserve">
+    <value>Name</value>
+  </data>
+  <data name="PricingMethod.Caption" xml:space="preserve">
+    <value>PricingMethod</value>
+  </data>
+  <data name="ProductCode.Caption" xml:space="preserve">
+    <value>ProductCode</value>
+  </data>
+  <data name="Quantity.Caption" xml:space="preserve">
+    <value>Quantity</value>
+  </data>
+  <data name="QuoteDiscount.Caption" xml:space="preserve">
+    <value>QuoteDiscount</value>
+  </data>
+  <data name="SellPrice.Caption" xml:space="preserve">
+    <value>SellPrice</value>
+  </data>
+  <data name="grdrrigationQuoteItems.f7ddf2f7-1288-4181-ba99-3c615fe6b46f.ColumnHeading" xml:space="preserve">
+    <value>Cost Price</value>
+  </data>
+  <data name="grdrrigationQuoteItems.5234ee06-da5b-40bb-b7c1-6511dbd7d532.ColumnHeading" xml:space="preserve">
+    <value>Discount Code</value>
+  </data>
+  <data name="grdrrigationQuoteItems.67e9f55a-df4e-4237-b8e4-e393ac12e779.ColumnHeading" xml:space="preserve">
+    <value>Ext Price</value>
+  </data>
+  <data name="grdrrigationQuoteItems.53b1579b-ab7c-47f2-95d0-3fe2bef6d2c3.ColumnHeading" xml:space="preserve">
+    <value>List Price</value>
+  </data>
+  <data name="grdrrigationQuoteItems.d97291b1-ff2b-4e09-be9a-6499eed8f97f.ColumnHeading" xml:space="preserve">
+    <value>Margin</value>
+  </data>
+  <data name="grdrrigationQuoteItems.9189f23c-275a-4559-b58c-4101ce62b544.ColumnHeading" xml:space="preserve">
+    <value>Name</value>
+  </data>
+  <data name="grdrrigationQuoteItems.1765294a-1fd2-45d9-88ed-92f3127b86d2.ColumnHeading" xml:space="preserve">
+    <value>Price Type</value>
+  </data>
+  <data name="grdrrigationQuoteItems.67b57c3d-8d79-4d28-bdeb-8a4a17321a3d.ColumnHeading" xml:space="preserve">
+    <value>Product Code</value>
+  </data>
+  <data name="grdrrigationQuoteItems.52ce0d15-6331-41ce-b6c2-70eb8ea56b0f.ColumnHeading" xml:space="preserve">
+    <value>Qty</value>
+  </data>
+  <data name="grdrrigationQuoteItems.a7640031-be76-4284-ae6c-c25e097e5d78.ColumnHeading" xml:space="preserve">
+    <value>Discount</value>
+  </data>
+  <data name="grdrrigationQuoteItems.c26843dd-31f8-4255-85d7-49b28cb85713.ColumnHeading" xml:space="preserve">
+    <value>Sell Price</value>
+  </data>
+  <data name="QFLabel.Text" xml:space="preserve">
+    <value>Totals:</value>
+  </data>
+  <data name="SellTotal.Caption" xml:space="preserve">
+    <value>Sell:</value>
+  </data>
+  <data name="ListTotal.Caption" xml:space="preserve">
+    <value>List:</value>
+  </data>
+  <data name="CostTotal.Caption" xml:space="preserve">
+    <value>Cost:</value>
+  </data>
+  <data name="QFTextBox.Caption" xml:space="preserve">
+    <value>Margin:</value>
+  </data>
+  <data name="QFLabel2.Text" xml:space="preserve">
+    <value>Move</value>
+  </data>
+  <data name="AddCommentButton.Caption" xml:space="preserve">
+    <value>Add Comment</value>
+  </data>
+  <data name="AddProductButton.Caption" xml:space="preserve">
+    <value>Add Product</value>
+  </data>
+  <data name="SAPEXportButton.Caption" xml:space="preserve">
+    <value>Export for SAP</value>
+  </data>
+</root>

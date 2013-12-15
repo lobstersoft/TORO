@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<ModelItems xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Item Id="7e2bc9ab-6763-4e36-b59d-723d45001f6f">menuItemLookupIrrigationQuote.contextmenu.xml</Item>
+  <Item Id="859dc198-2797-4082-bf24-3c7a1d2703b0">menuItemNewIrrigationQuote.contextmenu.xml</Item>
+  <Item Id="41c4b87e-d0d7-4527-af19-94a099508924">menuItemCreateNewIrrigationQuoteGroup.contextmenu.xml</Item>
+</ModelItems>

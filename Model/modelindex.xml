@@ -1394,4 +1394,28 @@
  <ref id="bd7fb838-3722-4f1e-8925-1f7e924afe68" url="\Entity Model\SalesLogix Speedsearch Support\IndexStatistics\OnBeforeDelete.method.xml" />
  <ref id="de6e57e1-15ac-4e0e-bdd5-29c5998d9b13" url="\Entity Model\SalesLogix Speedsearch Support\IndexStatistics\OnBeforeInsert.method.xml" />
  <ref id="d3856da7-0909-4b1a-ae46-9c2db813a9c3" url="\Mashup Model\SummaryViewQueries.mashup.xml" />
+ <ref id="f385854a-968d-4f11-b497-fb4eaafce6a1" url="\Entity Model\Irrigation Quotes\IrrigationQuote\IrrigationQuote.TA_QUOTESIRR.entity.xml" />
+ <ref id="6f4310d3-f18d-411c-8d36-36f0ced367fb" url="\Entity Model\Irrigation Quotes\IrrigationQuoteItem\IrrigationQuoteItem.TA_QUOTESIRRITEM.entity.xml" />
+ <ref id="08577679-ced3-453c-baa0-c40932d5f754" url="\Entity Model\Irrigation Quotes\IrrigationQuoteProduct\IrrigationQuoteProduct.TA_PRODUCT.entity.xml" />
+ <ref id="5f43f075-f687-40f2-a036-c9c5f64abca5" url="\Entity Model\Irrigation Quotes\IrrigationQuote\OnAfterInsert.method.xml" />
+ <ref id="04299076-c516-4973-9d85-120b2a5eb5cd" url="\Entity Model\Irrigation Quotes\IrrigationQuote\OnAfterUpdate.method.xml" />
+ <ref id="8e56d0c1-60ad-4100-8d74-9bef14c73923" url="\Entity Model\Irrigation Quotes\IrrigationQuote\OnAfterDelete.method.xml" />
+ <ref id="39a50231-d7fe-4f06-b2fc-d616c92fd93d" url="\Entity Model\Irrigation Quotes\IrrigationQuote\OnBeforeUpdate.method.xml" />
+ <ref id="5be6c44f-f909-40e7-bbf7-840eedb312df" url="\Entity Model\Irrigation Quotes\IrrigationQuote\OnCreate.method.xml" />
+ <ref id="1c77cd53-8868-4091-afa4-b7a01a03fa13" url="\Entity Model\Irrigation Quotes\IrrigationQuote\OnBeforeDelete.method.xml" />
+ <ref id="136cb38b-6bd4-410c-9d3f-84b1708a4986" url="\Entity Model\Irrigation Quotes\IrrigationQuote\OnBeforeInsert.method.xml" />
+ <ref id="40afd83d-e7b0-4869-96e1-86f32a2b164f" url="\Entity Model\Irrigation Quotes\IrrigationQuoteItem\OnAfterInsert.method.xml" />
+ <ref id="81557e6b-4651-46af-a0fd-d25677a95fdf" url="\Entity Model\Irrigation Quotes\IrrigationQuoteItem\OnAfterUpdate.method.xml" />
+ <ref id="c528a7c9-14ea-43a9-a0df-853868c3b932" url="\Entity Model\Irrigation Quotes\IrrigationQuoteItem\OnAfterDelete.method.xml" />
+ <ref id="fa245031-3c4b-4a68-9b5c-01f80ce56864" url="\Entity Model\Irrigation Quotes\IrrigationQuoteItem\OnBeforeUpdate.method.xml" />
+ <ref id="4ec3865d-7ae9-4ba0-87d7-2323d5c910e2" url="\Entity Model\Irrigation Quotes\IrrigationQuoteItem\OnCreate.method.xml" />
+ <ref id="4e34157c-9273-48c1-8fa2-64dad610b67f" url="\Entity Model\Irrigation Quotes\IrrigationQuoteItem\OnBeforeDelete.method.xml" />
+ <ref id="e5b7b68f-a7f7-4ece-81cb-b70c6d639e95" url="\Entity Model\Irrigation Quotes\IrrigationQuoteItem\OnBeforeInsert.method.xml" />
+ <ref id="1a03b08e-4443-41f6-8bd2-8958b3c321b5" url="\Entity Model\Irrigation Quotes\IrrigationQuoteProduct\OnAfterInsert.method.xml" />
+ <ref id="163811a0-f050-4809-a824-79d1d30ab676" url="\Entity Model\Irrigation Quotes\IrrigationQuoteProduct\OnAfterUpdate.method.xml" />
+ <ref id="5ca71126-75b4-483a-a68a-cb5349fc1b8b" url="\Entity Model\Irrigation Quotes\IrrigationQuoteProduct\OnAfterDelete.method.xml" />
+ <ref id="54d7962c-222a-4a71-9ef9-16b1e3d178fe" url="\Entity Model\Irrigation Quotes\IrrigationQuoteProduct\OnBeforeUpdate.method.xml" />
+ <ref id="8b87d1aa-1ee1-4ce4-9abf-446e146a0bc5" url="\Entity Model\Irrigation Quotes\IrrigationQuoteProduct\OnCreate.method.xml" />
+ <ref id="92326b81-84a3-4b4d-b827-e5cce04ae902" url="\Entity Model\Irrigation Quotes\IrrigationQuoteProduct\OnBeforeDelete.method.xml" />
+ <ref id="a840badb-62c1-4f1c-b8fc-593a7157bc60" url="\Entity Model\Irrigation Quotes\IrrigationQuoteProduct\OnBeforeInsert.method.xml" />
 </modelItemIndex>

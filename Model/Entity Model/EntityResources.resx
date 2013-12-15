@@ -13053,4 +13053,373 @@
   <data name="OwnerView.Type.Department.DisplayName" xml:space="preserve">
     <value>Department</value>
   </data>
+  <data name="IrrigationQuote.Ta_quotesirrId.DisplayName" xml:space="preserve">
+    <value>TA QuotesIrrID</value>
+  </data>
+  <data name="IrrigationQuote.CreateUser.DisplayName" xml:space="preserve">
+    <value>Createuser</value>
+  </data>
+  <data name="IrrigationQuote.CreateDate.DisplayName" xml:space="preserve">
+    <value>Createdate</value>
+  </data>
+  <data name="IrrigationQuote.ModifyUser.DisplayName" xml:space="preserve">
+    <value>Modifyuser</value>
+  </data>
+  <data name="IrrigationQuote.ModifyDate.DisplayName" xml:space="preserve">
+    <value>Modifydate</value>
+  </data>
+  <data name="IrrigationQuote.ProjectID.DisplayName" xml:space="preserve">
+    <value>ProjectID</value>
+  </data>
+  <data name="IrrigationQuote.ProjectDescription.DisplayName" xml:space="preserve">
+    <value>ProjectDescription</value>
+  </data>
+  <data name="IrrigationQuote.ToroAccountNo.DisplayName" xml:space="preserve">
+    <value>ToroAccountNo</value>
+  </data>
+  <data name="IrrigationQuote.DocumentNo.DisplayName" xml:space="preserve">
+    <value>DocumentNo</value>
+  </data>
+  <data name="IrrigationQuote.DocumentStatus.DisplayName" xml:space="preserve">
+    <value>DocumentStatus</value>
+  </data>
+  <data name="IrrigationQuote.ValidTo.DisplayName" xml:space="preserve">
+    <value>ValidTo</value>
+  </data>
+  <data name="IrrigationQuote.FreightVia.DisplayName" xml:space="preserve">
+    <value>FreightVia</value>
+  </data>
+  <data name="IrrigationQuote.FreightCharge.DisplayName" xml:space="preserve">
+    <value>FreightCharge</value>
+  </data>
+  <data name="IrrigationQuote.SoldToAccountNo.DisplayName" xml:space="preserve">
+    <value>SoldToAccountNo</value>
+  </data>
+  <data name="IrrigationQuote.SoldToAccountName.DisplayName" xml:space="preserve">
+    <value>SoldToAccountName</value>
+  </data>
+  <data name="IrrigationQuote.SoldToAccountID.DisplayName" xml:space="preserve">
+    <value>SoldToAccountID</value>
+  </data>
+  <data name="IrrigationQuote.SoldToContactName.DisplayName" xml:space="preserve">
+    <value>SoldToContactName</value>
+  </data>
+  <data name="IrrigationQuote.SoldToContactID.DisplayName" xml:space="preserve">
+    <value>SoldToContactID</value>
+  </data>
+  <data name="IrrigationQuote.SoldToTitle.DisplayName" xml:space="preserve">
+    <value>SoldToTitle</value>
+  </data>
+  <data name="IrrigationQuote.SoldToPhone.DisplayName" xml:space="preserve">
+    <value>SoldToPhone</value>
+  </data>
+  <data name="IrrigationQuote.SoldToMobile.DisplayName" xml:space="preserve">
+    <value>SoldToMobile</value>
+  </data>
+  <data name="IrrigationQuote.SoldToCity.DisplayName" xml:space="preserve">
+    <value>SoldToCity</value>
+  </data>
+  <data name="IrrigationQuote.SoldToState.DisplayName" xml:space="preserve">
+    <value>SoldToState</value>
+  </data>
+  <data name="IrrigationQuote.SoldToPostCode.DisplayName" xml:space="preserve">
+    <value>SoldToPostCode</value>
+  </data>
+  <data name="IrrigationQuote.ShipToAccountNo.DisplayName" xml:space="preserve">
+    <value>ShipToAccountNo</value>
+  </data>
+  <data name="IrrigationQuote.ShipToAccountName.DisplayName" xml:space="preserve">
+    <value>ShipToAccountName</value>
+  </data>
+  <data name="IrrigationQuote.ShipToAccountID.DisplayName" xml:space="preserve">
+    <value>ShipToAccountID</value>
+  </data>
+  <data name="IrrigationQuote.ShipToContactName.DisplayName" xml:space="preserve">
+    <value>ShipToContactName</value>
+  </data>
+  <data name="IrrigationQuote.ShipToContactID.DisplayName" xml:space="preserve">
+    <value>ShipToContactID</value>
+  </data>
+  <data name="IrrigationQuote.ShipToPhone.DisplayName" xml:space="preserve">
+    <value>ShipToPhone</value>
+  </data>
+  <data name="IrrigationQuote.ShipToMobile.DisplayName" xml:space="preserve">
+    <value>ShipToMobile</value>
+  </data>
+  <data name="IrrigationQuote.ShipToCity.DisplayName" xml:space="preserve">
+    <value>ShipToCity</value>
+  </data>
+  <data name="IrrigationQuote.ShipToPostCode.DisplayName" xml:space="preserve">
+    <value>ShipToPostCode</value>
+  </data>
+  <data name="IrrigationQuote.ShipToState.DisplayName" xml:space="preserve">
+    <value>ShipToState</value>
+  </data>
+  <data name="IrrigationQuote.TotalCost.DisplayName" xml:space="preserve">
+    <value>TotalCost</value>
+  </data>
+  <data name="IrrigationQuote.TotalSell.DisplayName" xml:space="preserve">
+    <value>TotalSell</value>
+  </data>
+  <data name="IrrigationQuote.TotalList.DisplayName" xml:space="preserve">
+    <value>TotalList</value>
+  </data>
+  <data name="IrrigationQuote.IntroNote.DisplayName" xml:space="preserve">
+    <value>IntroNote</value>
+  </data>
+  <data name="IrrigationQuote.CloseNote.DisplayName" xml:space="preserve">
+    <value>CloseNote</value>
+  </data>
+  <data name="IrrigationQuote.ShipToAddress1.DisplayName" xml:space="preserve">
+    <value>ShipToAddress1</value>
+  </data>
+  <data name="IrrigationQuote.ShipToAddress2.DisplayName" xml:space="preserve">
+    <value>ShipToAddress2</value>
+  </data>
+  <data name="IrrigationQuote.SoldToAddress1.DisplayName" xml:space="preserve">
+    <value>SoldToAddress1</value>
+  </data>
+  <data name="IrrigationQuote.SoldToAddress2.DisplayName" xml:space="preserve">
+    <value>SoldToAddress2</value>
+  </data>
+  <data name="IrrigationQuote.InternalNote.DisplayName" xml:space="preserve">
+    <value>InternalNote</value>
+  </data>
+  <data name="IrrigationQuote.IssuedBy.DisplayName" xml:space="preserve">
+    <value>IssuedBy</value>
+  </data>
+  <data name="IrrigationQuote.IssuedDate.DisplayName" xml:space="preserve">
+    <value>IssuedDate</value>
+  </data>
+  <data name="IrrigationQuote.ShipToTitle.DisplayName" xml:space="preserve">
+    <value>ShipToTitle</value>
+  </data>
+  <data name="IrrigationQuote.BaseDocumentNo.DisplayName" xml:space="preserve">
+    <value>BaseDocumentNo</value>
+  </data>
+  <data name="IrrigationQuote.RevisionNo.DisplayName" xml:space="preserve">
+    <value>RevisionNo</value>
+  </data>
+  <data name="IrrigationQuote.Finalised.DisplayName" xml:space="preserve">
+    <value>Finalised</value>
+  </data>
+  <data name="IrrigationQuote.SalesOrder.DisplayName" xml:space="preserve">
+    <value>SalesOrder</value>
+  </data>
+  <data name="IrrigationQuote.CustomerOrder.DisplayName" xml:space="preserve">
+    <value>CustomerOrder</value>
+  </data>
+  <data name="IrrigationQuote.ProjectQuote.DisplayName" xml:space="preserve">
+    <value>ProjectQuote</value>
+  </data>
+  <data name="IrrigationQuote.StockQuote.DisplayName" xml:space="preserve">
+    <value>StockQuote</value>
+  </data>
+  <data name="IrrigationQuote.QuoteType.DisplayName" xml:space="preserve">
+    <value>QuoteType</value>
+  </data>
+  <data name="IrrigationQuote.QuoteDescription.DisplayName" xml:space="preserve">
+    <value>QuoteDescription</value>
+  </data>
+  <data name="IrrigationQuote.DisplayName" xml:space="preserve">
+    <value>Irrigation Quote</value>
+  </data>
+  <data name="IrrigationQuote.DisplayNamePlural" xml:space="preserve">
+    <value>Irrigation Quotes</value>
+  </data>
+  <data name="IrrigationQuoteItem.Ta_quotesirritemId.DisplayName" xml:space="preserve">
+    <value>Ta Quotesirritemid</value>
+  </data>
+  <data name="IrrigationQuoteItem.Ta_quotesirrId.DisplayName" xml:space="preserve">
+    <value>Ta Quotesirrid</value>
+  </data>
+  <data name="IrrigationQuoteItem.CreateUser.DisplayName" xml:space="preserve">
+    <value>Createuser</value>
+  </data>
+  <data name="IrrigationQuoteItem.CreateDate.DisplayName" xml:space="preserve">
+    <value>Createdate</value>
+  </data>
+  <data name="IrrigationQuoteItem.ModifyUser.DisplayName" xml:space="preserve">
+    <value>Modifyuser</value>
+  </data>
+  <data name="IrrigationQuoteItem.ModifyDate.DisplayName" xml:space="preserve">
+    <value>Modifydate</value>
+  </data>
+  <data name="IrrigationQuoteItem.LineNumber.DisplayName" xml:space="preserve">
+    <value>LineNumber</value>
+  </data>
+  <data name="IrrigationQuoteItem.Quantity.DisplayName" xml:space="preserve">
+    <value>Quantity</value>
+  </data>
+  <data name="IrrigationQuoteItem.ProductCode.DisplayName" xml:space="preserve">
+    <value>ProductCode</value>
+  </data>
+  <data name="IrrigationQuoteItem.DiscountCode.DisplayName" xml:space="preserve">
+    <value>DiscountCode</value>
+  </data>
+  <data name="IrrigationQuoteItem.Description.DisplayName" xml:space="preserve">
+    <value>Description</value>
+  </data>
+  <data name="IrrigationQuoteItem.PriceGroup.DisplayName" xml:space="preserve">
+    <value>PriceGroup</value>
+  </data>
+  <data name="IrrigationQuoteItem.ListPrice.DisplayName" xml:space="preserve">
+    <value>ListPrice</value>
+  </data>
+  <data name="IrrigationQuoteItem.CostPrice.DisplayName" xml:space="preserve">
+    <value>CostPrice</value>
+  </data>
+  <data name="IrrigationQuoteItem.SAPDiscount.DisplayName" xml:space="preserve">
+    <value>SAPDiscount</value>
+  </data>
+  <data name="IrrigationQuoteItem.SAPRate.DisplayName" xml:space="preserve">
+    <value>SAPRate</value>
+  </data>
+  <data name="IrrigationQuoteItem.SAPSell.DisplayName" xml:space="preserve">
+    <value>SAPSell</value>
+  </data>
+  <data name="IrrigationQuoteItem.QuoteSell.DisplayName" xml:space="preserve">
+    <value>QuoteSell</value>
+  </data>
+  <data name="IrrigationQuoteItem.QuoteDiscount.DisplayName" xml:space="preserve">
+    <value>QuoteDiscount</value>
+  </data>
+  <data name="IrrigationQuoteItem.InternalNote.DisplayName" xml:space="preserve">
+    <value>InternalNote</value>
+  </data>
+  <data name="IrrigationQuoteItem.CustomerNote.DisplayName" xml:space="preserve">
+    <value>CustomerNote</value>
+  </data>
+  <data name="IrrigationQuoteItem.PricingMethod.DisplayName" xml:space="preserve">
+    <value>PricingMethod</value>
+  </data>
+  <data name="IrrigationQuoteItem.Name.DisplayName" xml:space="preserve">
+    <value>Name</value>
+  </data>
+  <data name="IrrigationQuoteItem.TAProductID.DisplayName" xml:space="preserve">
+    <value>TA_ProductID</value>
+  </data>
+  <data name="IrrigationQuoteItem.SellPrice.DisplayName" xml:space="preserve">
+    <value>SellPrice</value>
+  </data>
+  <data name="IrrigationQuoteItem.ExtendedPrice.DisplayName" xml:space="preserve">
+    <value>ExtendedPrice</value>
+  </data>
+  <data name="IrrigationQuoteItem.Margin.DisplayName" xml:space="preserve">
+    <value>Margin</value>
+  </data>
+  <data name="IrrigationQuoteItem.QuoteMargin.DisplayName" xml:space="preserve">
+    <value>QuoteMargin</value>
+  </data>
+  <data name="IrrigationQuoteItem.SAPMargin.DisplayName" xml:space="preserve">
+    <value>SAPMargin</value>
+  </data>
+  <data name="IrrigationQuoteItem.GroupNumber.DisplayName" xml:space="preserve">
+    <value>GroupNumber</value>
+  </data>
+  <data name="IrrigationQuoteItem.DisplayName" xml:space="preserve">
+    <value>Quote Item</value>
+  </data>
+  <data name="IrrigationQuoteItem.DisplayNamePlural" xml:space="preserve">
+    <value>Quote Items</value>
+  </data>
+  <data name="IrrigationQuoteProduct.Ta_productId.DisplayName" xml:space="preserve">
+    <value>Ta Productid</value>
+  </data>
+  <data name="IrrigationQuoteProduct.CreateUser.DisplayName" xml:space="preserve">
+    <value>Createuser</value>
+  </data>
+  <data name="IrrigationQuoteProduct.CreateDate.DisplayName" xml:space="preserve">
+    <value>Createdate</value>
+  </data>
+  <data name="IrrigationQuoteProduct.ModifyUser.DisplayName" xml:space="preserve">
+    <value>Modifyuser</value>
+  </data>
+  <data name="IrrigationQuoteProduct.ModifyDate.DisplayName" xml:space="preserve">
+    <value>Modifydate</value>
+  </data>
+  <data name="IrrigationQuoteProduct.ProductCode.DisplayName" xml:space="preserve">
+    <value>ProductCode</value>
+  </data>
+  <data name="IrrigationQuoteProduct.Name.DisplayName" xml:space="preserve">
+    <value>Name</value>
+  </data>
+  <data name="IrrigationQuoteProduct.ProductGroup.DisplayName" xml:space="preserve">
+    <value>ProductGroup</value>
+  </data>
+  <data name="IrrigationQuoteProduct.Status.DisplayName" xml:space="preserve">
+    <value>Status</value>
+  </data>
+  <data name="IrrigationQuoteProduct.Unit.DisplayName" xml:space="preserve">
+    <value>Unit</value>
+  </data>
+  <data name="IrrigationQuoteProduct.WarehouseLocation.DisplayName" xml:space="preserve">
+    <value>WarehouseLocation</value>
+  </data>
+  <data name="IrrigationQuoteProduct.ProductType.DisplayName" xml:space="preserve">
+    <value>ProductType</value>
+  </data>
+  <data name="IrrigationQuoteProduct.ListPrice.DisplayName" xml:space="preserve">
+    <value>ListPrice</value>
+  </data>
+  <data name="IrrigationQuoteProduct.CostPrice.DisplayName" xml:space="preserve">
+    <value>CostPrice</value>
+  </data>
+  <data name="IrrigationQuoteProduct.DiscountCode.DisplayName" xml:space="preserve">
+    <value>DiscountCode</value>
+  </data>
+  <data name="IrrigationQuoteProduct.SAPName.DisplayName" xml:space="preserve">
+    <value>SAPName</value>
+  </data>
+  <data name="IrrigationQuoteProduct.PackSize.DisplayName" xml:space="preserve">
+    <value>PackSize</value>
+  </data>
+  <data name="IrrigationQuoteProduct.UpdateSource.DisplayName" xml:space="preserve">
+    <value>UpdateSource</value>
+  </data>
+  <data name="IrrigationQuoteProduct.IrrigationPriceList.DisplayName" xml:space="preserve">
+    <value>IrrigationPriceList</value>
+  </data>
+  <data name="IrrigationQuoteProduct.DisplayOnPriceList.DisplayName" xml:space="preserve">
+    <value>DisplayOnPriceList</value>
+  </data>
+  <data name="IrrigationQuoteProduct.RefProductCode.DisplayName" xml:space="preserve">
+    <value>RefProductCode</value>
+  </data>
+  <data name="IrrigationQuoteProduct.Image.DisplayName" xml:space="preserve">
+    <value>Image</value>
+  </data>
+  <data name="IrrigationQuoteProduct.DisplayName" xml:space="preserve">
+    <value>Quote Product</value>
+  </data>
+  <data name="IrrigationQuoteProduct.DisplayNamePlural" xml:space="preserve">
+    <value>Quote Products</value>
+  </data>
+  <data name="IrrigationQuote.QuoteItems.DisplayName" xml:space="preserve">
+    <value>Quote Items</value>
+  </data>
+  <data name="IrrigationQuoteItem.IrrigationQuote.DisplayName" xml:space="preserve">
+    <value>Irrigation Quote</value>
+  </data>
+  <data name="IrrigationQuote.ShipToAccount.DisplayName" xml:space="preserve">
+    <value>Ship To Account</value>
+  </data>
+  <data name="Account.IrrigationQuote.DisplayName" xml:space="preserve">
+    <value>Irrigation Quote</value>
+  </data>
+  <data name="IrrigationQuote.SoldToAccount.DisplayName" xml:space="preserve">
+    <value>Sold To Account</value>
+  </data>
+  <data name="Account.IrrigationQuotes.DisplayName" xml:space="preserve">
+    <value>Irrigation Quotes</value>
+  </data>
+  <data name="IrrigationQuote.Account.DisplayName" xml:space="preserve">
+    <value>Account</value>
+  </data>
+  <data name="Contact.IrrigationQuotes.DisplayName" xml:space="preserve">
+    <value>Irrigation Quotes</value>
+  </data>
+  <data name="IrrigationQuote.Contact.DisplayName" xml:space="preserve">
+    <value>Contact</value>
+  </data>
 </root>

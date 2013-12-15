@@ -63,6 +63,7 @@
     <AssemblyName>Sage.SalesLogix.PickLists</AssemblyName>
     <AssemblyName>Sage.SalesLogix.Plugins</AssemblyName>
     <AssemblyName>Sage.Saleslogix.System</AssemblyName>
+    <AssemblyName>Toro.IrigationQuotes</AssemblyName>
     <AssemblyName>Sage.ProcessOrchestration</AssemblyName>
     <AssemblyName>Sage.SalesLogix.Activity.Entities</AssemblyName>
     <AssemblyName>Sage.SalesLogix.Entities</AssemblyName>
